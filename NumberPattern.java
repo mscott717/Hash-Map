@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class NumberPattern {
-    // TODO: Write recursive printNumPattern() method
+    // Write recursive printNumPattern() method
 
     public static void printNumPattern(int startingNum, int changeNum){
         System.out.print(startingNum + " ");
